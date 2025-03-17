@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 This is some random text!
 
 This is anas l9iiirsh here we go
 
 Elevate. Digitally
 
+=======
+
+>>>>>>> c8ee84f0af1ae1224206d8ac47bd7a52518af8f6
