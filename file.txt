@@ -1,2 +1,6 @@
 This is some random text!
+<<<<<<< HEAD
+Making changes for test
+=======
 This is anas l9iiirsh here we go
+>>>>>>> 15a30c6b41b3ee1fcd3bd57fc7c339b034033cfd
